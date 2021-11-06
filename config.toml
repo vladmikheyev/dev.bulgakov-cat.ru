@@ -1,0 +1,8 @@
+baseURL = 'http://dev.bulgakov-cat.ru/'
+languageCode = 'en-us'
+title = 'Теория Полюсов'
+theme = "ace-documentation"
+[params]
+  custom_css = ["style.css"]
+
+orderSectionsby = "title"
